@@ -7,6 +7,6 @@ installation
 
 `git clone https://github.com/SECURITY-17/web-v2`
 
-`cd web`
+`cd web-v2`
 
 `python3 web-v2.py`
